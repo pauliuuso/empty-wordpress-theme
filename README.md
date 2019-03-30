@@ -1,3 +1,6 @@
 # Empty wordpress theme
 
-With Gulp configuration
+## Instaliation
+Clone this repository and put files into your themes folder.
+Copy package.json and gulpfile.js into WordPress root.
+Run npm install
