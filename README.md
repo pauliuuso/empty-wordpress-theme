@@ -1,1 +1,3 @@
-# empty-wordpress-theme
+# Empty wordpress theme
+
+With Gulp configuration
